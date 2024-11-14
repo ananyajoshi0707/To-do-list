@@ -8,7 +8,7 @@ taskForm.addEventListener("submit", (e) => {
     console.log(taskTitle);
 
     if (taskTitle == "") {
-        alert("Please Enter Task");
+        alert("Please Enter  valid Task");
     } else {
         const listItem = document.createElement("li");
         listItem.innerHTML = taskTitle;
