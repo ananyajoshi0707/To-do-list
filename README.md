@@ -19,13 +19,15 @@ In today’s fast‑paced life, keeping track of tasks is essential. Listify bri
 -----
 
 ## 🛠️ Tech Stack
-| Layer         | Tech Stack                        |
-|---------------------------------------------------|
-|💻 Frontend	HTML, CSS, JavaScript            |
-|🎨 Styling	Custom CSS   |
-|⚡ Interaction	Vanilla JavaScript |
 
--------
+| Layer         | Tech Stack                        |
+|---------------|------------------------------------|
+|💻 Frontend    | HTML, CSS, JavaScript             |
+| 🎨 Styling	   | Custom CSS                        |
+|⚡ Interaction     |Vanilla JavaScript                |
+
+
+---
 
 ## 📸 Screenshots
 ![UI](screenshot/ss.png)  
